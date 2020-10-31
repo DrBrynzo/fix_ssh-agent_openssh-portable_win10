@@ -6,4 +6,4 @@ The package I use this with is the PowerShell openssh-portable repo here: https:
 
 Instructions
 
-Put this somewhere on your Windows 10 PC and run it from an elevated (Administrator) PowerShell session. I don't think there's really much else.
+Put this somewhere on your Windows 10 PC, make sure the OpenSSH path (to ssh-agent.exe) works for your system and run it from an elevated (Administrator) PowerShell session.
